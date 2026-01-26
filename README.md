@@ -1,53 +1,62 @@
-# 👋 Hi, I'm Gokul Gopan
+<p align="center">
+  <img width="120" src="https://avatars.githubusercontent.com/u/00000000?v=4" />
+</p>
 
-🚀 Full-Stack Developer | Backend Engineer | Cloud & ML Enthusiast  
+<h2 align="center">Gokul Gopan</h2>
 
-I’m a passionate developer who enjoys building scalable web applications, clean APIs, and modern user interfaces. I work primarily with Python-based backends and Angular frontends, and I enjoy exploring cloud infrastructure and machine learning to solve real-world problems.
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Backend+Specialist;Angular+Frontend+Engineer;AWS+%7C+Machine+Learning" 
+  />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GokulGopan&color=58A6FF&style=flat" />
+</p>
 
-## 🛠️ Tech Stack
+<br/>
 
-### 💻 Backend
-- Python  
-- Django  
-- FastAPI  
+<p align="center">
+  <b>Building scalable systems, clean APIs, and modern web experiences.</b><br/>
+  Python • Django • FastAPI • Angular • AWS • Databases • ML
+</p>
 
-### 🌐 Frontend
-- Angular  
+<br/>
 
-### 🗄️ Databases
-- MySQL  
-- PostgreSQL  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,angular,aws,mysql,postgres&theme=dark" />
+</p>
 
-### ☁️ Cloud & DevOps
-- AWS  
+<br/>
 
-### 🤖 Machine Learning
-- Data preprocessing & model building  
-- Applied ML for real-world use cases  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GokulGopan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</p>
 
----
+<br/>
 
-## 🔧 What I Do
-- Build RESTful APIs and backend services  
-- Develop responsive, modern web applications  
-- Design and manage relational databases  
-- Deploy and manage applications on AWS  
-- Explore and apply machine learning concepts  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulGopan&theme=github-dark&hide_border=true" />
+</p>
 
----
+<br/>
 
-## 📈 GitHub Focus
-- Clean and maintainable code  
-- Practical, real-world projects  
-- Continuous learning and improvement  
+<p align="center">
+  <i>
+    Backend-first mindset • Production-ready code • Cloud-deployed solutions
+  </i>
+</p>
 
----
+<br/>
 
-## 📫 Connect With Me
-- 💼 GitHub: [github.com/GokulGopan](https://github.com/GokulGopan)
+<p align="center">
+  <a href="https://github.com/GokulGopan">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
----
+<br/>
 
-⭐ *Feel free to explore my repositories and reach out if you’d like to collaborate!*
+<p align="center">
+  ⭐ <i>If something here caught your eye, let’s build something great.</i>
+</p>
