@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Gokul Gopan
 
-<!--
-**Gokulgopan01/Gokulgopan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Backend Engineer | Cloud & ML Enthusiast  
 
-Here are some ideas to get you started:
+I’m a passionate developer who enjoys building scalable web applications, clean APIs, and modern user interfaces. I work primarily with Python-based backends and Angular frontends, and I enjoy exploring cloud infrastructure and machine learning to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Python  
+- Django  
+- FastAPI  
+
+### 🌐 Frontend
+- Angular  
+
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+
+### ☁️ Cloud & DevOps
+- AWS  
+
+### 🤖 Machine Learning
+- Data preprocessing & model building  
+- Applied ML for real-world use cases  
+
+---
+
+## 🔧 What I Do
+- Build RESTful APIs and backend services  
+- Develop responsive, modern web applications  
+- Design and manage relational databases  
+- Deploy and manage applications on AWS  
+- Explore and apply machine learning concepts  
+
+---
+
+## 📈 GitHub Focus
+- Clean and maintainable code  
+- Practical, real-world projects  
+- Continuous learning and improvement  
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: [github.com/GokulGopan](https://github.com/GokulGopan)
+
+---
+
+⭐ *Feel free to explore my repositories and reach out if you’d like to collaborate!*
