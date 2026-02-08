@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="180" src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" alt="Gokul Gopan" />
-</p>
+
 
 <h1 align="center">Gokul Gopan</h1>
 
